@@ -1,5 +1,5 @@
 # Ayushi Yadav — Portfolio
-Live Demo: https://ayushi-yadav-portfolio.vercel.app
+Live Demo: https://ayushi-portfolio-70077.vercel.app
 
 A modern, fast, frontend-only portfolio built with **Next.js 14**, **TypeScript**, **Tailwind CSS**, and **Framer Motion**.
 
